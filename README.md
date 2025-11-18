@@ -7,10 +7,11 @@
 [![Validation Status](https://img.shields.io/github/actions/workflow/status/lsellens/thesimple-thermostat/validate.yml?style=for-the-badge)](https://github.com/lsellens/thesimple-thermostat/actions)
 [![License](https://img.shields.io/github/license/lsellens/thesimple-thermostat?style=for-the-badge)](LICENSE)
 
+[Well, it was fun while it lasted. Unfortunately, it looks like thesimple.com has chosen to turn all of these units into e-waste despite their supposed commitment to the environment.](https://github.com/lsellens/thesimple-thermostat/blob/master/Simple_Thermostat_End_of_Service_12-31-2025.png)
+
 This integration is for users of Simple WiFi thermostat made by "[TheSimple](https://thesimple.com/)" which is accessed through [ecofactor.com](https://www.ecofactor.com).
 
-<img src="images/s100_black.png" alt="Simple Thermostat Black" width="25%"> <img src="images/s100_white.png" alt="Simple Thermostat White" width="25%">
-
+![Simple Thermostat Black](images/s100_black-small.png) ![Simple Thermostat White](images/s100_white-small.png)
 ## Installation via HACS
 
 
